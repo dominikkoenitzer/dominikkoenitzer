@@ -2,6 +2,8 @@
 
 **Software engineer in Zürich, Switzerland.** I build things that run close to the metal and things that run in the browser — a Windows uninstaller in Rust, a spaced-repetition study app in Electron, a password-strength estimator written from scratch.
 
+Studying at **WISS Schulen für Wirtschaft Informatik Immobilien** in Zürich.
+
 🎯 **Currently looking for a 12-month software engineering internship.**
 
 ---
