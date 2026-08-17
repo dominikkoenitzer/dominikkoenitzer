@@ -28,6 +28,7 @@ More in [my repositories →](https://github.com/dominikkoenitzer?tab=repositori
 ### Elsewhere
 
 - 🌐 [dk.punds.ch](https://dk.punds.ch)
+- 📄 [CV](https://dk.punds.ch/cv)
 - 📫 [dominik.koenitzer@gmail.com](mailto:dominik.koenitzer@gmail.com)
 
 <br />
