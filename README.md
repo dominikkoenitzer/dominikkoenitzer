@@ -1,6 +1,6 @@
 # Dominik Könitzer
 
-Software engineer in Zürich, Switzerland. Studying at WISS Schulen für Wirtschaft Informatik Immobilien.
+Software engineer in Zürich, Switzerland.
 
 [dk.punds.ch](https://dk.punds.ch) · [dominik.koenitzer@gmail.com](mailto:dominik.koenitzer@gmail.com)
 
