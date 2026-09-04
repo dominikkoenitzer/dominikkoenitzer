@@ -2,7 +2,7 @@
 
 Software engineer in Zürich, Switzerland. Studying at WISS Schulen für Wirtschaft Informatik Immobilien.
 
-[dk.punds.ch](https://dk.punds.ch) · [CV](https://dk.punds.ch/cv) · [dominik.koenitzer@gmail.com](mailto:dominik.koenitzer@gmail.com)
+[dk.punds.ch](https://dk.punds.ch) · [dominik.koenitzer@gmail.com](mailto:dominik.koenitzer@gmail.com)
 
 <br />
 
