@@ -2,7 +2,7 @@
 
 Software engineer in Zürich, Switzerland.
 
-[dk.punds.ch](https://dk.punds.ch) · [dominik.koenitzer@gmail.com](mailto:dominik.koenitzer@gmail.com)
+[dk.punds.ch](https://dk.punds.ch) · [Contact](https://dk.punds.ch/contact)
 
 <br />
 
