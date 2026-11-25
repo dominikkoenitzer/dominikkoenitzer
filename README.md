@@ -2,7 +2,7 @@
 
 Software engineer in Zürich, Switzerland.
 
-[dk.punds.ch](https://dk.punds.ch) · [Contact](https://dk.punds.ch/contact)
+[portfolio-izanagi.vercel.app](https://portfolio-izanagi.vercel.app) · [Contact](https://portfolio-izanagi.vercel.app/contact)
 
 <br />
 
